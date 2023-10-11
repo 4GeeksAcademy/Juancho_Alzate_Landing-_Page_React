@@ -4,7 +4,7 @@ body{
 
 .bar{
     background-color: rgb(50, 48, 48);
-    margin-top: -15px;
+    
 }
 
 .footer{
@@ -12,13 +12,30 @@ body{
 }
 
 .cardSyle{
-    padding: 1px;
+    /* padding: 1px; */
     margin: 15px;
     width: 95%;
 }
 
 .Jumbo{
     background-color: rgb(237, 234, 234);
-    margin: 15px;
-    padding: 10px;
+    /* margin: 15px;
+    padding: 10px; */
 }
+
+/* .nav_rigth{
+    margin-right: 80%; 
+    position: absolute; 
+     right: 78%;
+}
+
+.nav_left{
+    position: absolute; 
+    margin-left: 90px;
+    right: 15%;
+}
+
+.navHeight{
+    margin: 0;
+    height: 30px;
+} */
